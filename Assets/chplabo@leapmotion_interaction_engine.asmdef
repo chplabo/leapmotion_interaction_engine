@@ -1,0 +1,10 @@
+{
+    "name": "chplabo@leapmotion_interaction_engine",
+    "references": [
+        "chplabo@leapmotion_core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

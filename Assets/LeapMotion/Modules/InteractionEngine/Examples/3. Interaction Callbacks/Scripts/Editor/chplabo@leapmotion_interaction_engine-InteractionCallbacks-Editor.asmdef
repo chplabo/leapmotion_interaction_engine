@@ -1,0 +1,17 @@
+{
+    "name": "chplabo@leapmotion_interaction_engine-InteractionCallbacks-Editor",
+    "references": [
+        "chplabo@leapmotion_interaction_engine",
+        "chplabo@leapmotion_core",
+        "chplabo@leapmotion_interaction_engine-Editor",
+        "chplabo@leapmotion_core-Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "chplabo@leapmotion_interaction_engine-UI-Anchor-Editor",
+    "references": [
+        "chplabo@leapmotion_interaction_engine",
+        "chplabo@leapmotion_core",
+        "chplabo@leapmotion_interaction_engine-Editor",
+        "chplabo@leapmotion_core-Editor",
+        "chplabo@leapmotion_core-Utils-Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
