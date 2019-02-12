@@ -1,6 +1,6 @@
 {
   "name": "@chplabo/leapmotion_interaction_engine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LeapMotion Unity SDK / Interaction Engine",
   "homepage": "https://gitlab.com/chplabo/leapmotion_interaction_engine",
   "bugs": {
